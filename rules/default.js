@@ -7,7 +7,6 @@ module.exports = {
   },
   "plugins": [
     "react",
-    "no-copy-paste-default-export",
     "no-loops"
   ],
   "ecmaFeatures": {
